@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"martaller/feature1"
+	"martaller/feature2"
 )
 
 func main() {
